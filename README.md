@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio – Samuel Omondi  
+# Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!  
 This repository showcases hands-on projects demonstrating my skills in:  
@@ -27,13 +27,13 @@ Each project includes documentation, screenshots, and professional reports.
 - Configured IAM roles, MFA, and CloudTrail logging
 - Secured S3 bucket with encryption & access policies  
 
-**Deliverables:** [Security Policy (PDF)](./project2-cloud-security/security-policy.pdf) | [Architecture Diagram](./project2-cloud-security/architecture-diagram.png)
+**Deliverables:** [Security Policy (PDF)](./project2-cloud-security/security-policy.pdf) 
 
 ---
 
 ### [Project 3: Penetration Testing in a Lab](./project3-pentest)
-- Scanned Metasploitable VM with Nmap & Nikto
-- Exploited weak SSH credentials & SQL injection
+- Scanned Metasploitable VM with Nmap
+- Exploited weak WebDav configuration & File injection
 - Produced professional pentest report with CVSS scoring  
 
 **Deliverables:** [Pentest Report (PDF)](./project3-pentest/pentest-report.pdf)
@@ -50,10 +50,10 @@ Each project includes documentation, screenshots, and professional reports.
 ---
 
 ## 🔧 Skills Demonstrated
-- SIEM setup (Wazuh, Splunk basics)
+- SIEM setup (Wazuh)
 - Cloud security (AWS IAM, CloudTrail, S3 security)
-- Penetration testing (Nmap, Nikto, Hydra, Metasploit)
-- Vulnerability scanning (Nessus, OpenVAS)
+- Penetration testing (Nmap, Dirb, Cadaver, Metasploit)
+- Vulnerability scanning (Nessus)
 - Professional reporting & documentation
 
 ---
