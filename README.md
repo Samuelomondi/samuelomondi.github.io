@@ -31,7 +31,7 @@ Each project includes documentation, screenshots, and professional reports.
 
 ---
 
-### [Project 3: Penetration Testing in a Lab](./project3-pentest)
+### [Project 3: Penetration Testing in a Lab](./project3-pentest/pentest-lab.md)
 - Scanned Metasploitable VM with Nmap
 - Exploited weak WebDav configuration & File injection
 - Produced professional pentest report with CVSS scoring  
