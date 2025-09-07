@@ -22,7 +22,7 @@ Each project includes documentation, screenshots, and professional reports.
 
 ---
 
-### [Project 2: Multi-Region Cloud Security Setup](./project2-cloud-security)
+### [Project 2: Multi-Region Cloud Security Setup](./project2-cloud-security/cloud-security.md)
 - Deployed AWS resources across US-East-1 & EU-West-1
 - Configured IAM roles, MFA, and CloudTrail logging
 - Secured S3 bucket with encryption & access policies  
