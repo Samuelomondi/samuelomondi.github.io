@@ -48,6 +48,8 @@ S3).
 
 ![](./Screenshots/mfa.png)
 
+![](./Screenshots/policies.png)
+
 ### Step 3: Secure S3 Bucket
 1. Create an S3 bucket (name must be globally unique).
 2. Block all public access.
