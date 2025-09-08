@@ -40,12 +40,12 @@ Each project includes documentation, screenshots, and professional reports.
 
 ---
 
-### [Project 4: Vulnerability Assessment & Reporting](./project4-vulnerability-scan)
+### [Project 4: Vulnerability Assessment & Reporting](./project4-vulnerability-scan/vulnerability-scan.md)
 - Scanned Ubuntu VM with Nessus Essentials
 - Identified outdated services (OpenSSH, Apache, SSL/TLS issues)
 - Wrote a vulnerability assessment report with remediation plan  
 
-**Deliverables:** [Vulnerability Report (PDF)](./project4-vulnerability-scan/vuln-assessment-report.pdf)
+**Deliverables:** [Vulnerability Report (PDF)](./project4-vulnerability-scan/vulnerability-report.pdf)
 
 ---
 
