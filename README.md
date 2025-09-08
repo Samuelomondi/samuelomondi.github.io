@@ -59,6 +59,7 @@ Each project includes documentation, screenshots, and professional reports.
 ---
 
 ## 📫 Contact
-- **Email:** [samuelomondi3@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/samuel-omondi-otieno/]  
-- **Portfolio Repo:** [https://github.com/samuelomondi]  
+- **Email:** [samuelomondi3@gmail.com]
+- **Phone:** [0112883017]
+- [**LinkedIn**](https://www.linkedin.com/in/samuel-omondi-otieno/) 
+- [**Github**](https://github.com/samuelomondi)
