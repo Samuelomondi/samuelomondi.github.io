@@ -13,7 +13,7 @@ Each project includes documentation, screenshots, and professional reports.
 
 ## 📂 Projects
 
-### [Project 1: Security Monitoring & Incident Simulation Lab](./project1-soc-lab)
+### [Project 1: Security Monitoring & Incident Simulation Lab](./project1-soc-lab/SEIM-lab.md)
 - Set up Wazuh SIEM to monitor logs
 - Simulated brute-force SSH attack from Kali Linux
 - Detected attack & produced incident response report  
